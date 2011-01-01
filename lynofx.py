@@ -25,8 +25,8 @@ import os.path
 import sys
 import urllib2
 
-sys.path.insert(0, '3rdparty')
-sys.path.insert(0, 'lib')
+sys.path.insert(0, 'fixofx/3rdparty')
+sys.path.insert(0, 'fixofx/lib')
 
 import ofx
 
