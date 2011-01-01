@@ -17,7 +17,7 @@ First, clone the repo from GitHub:
 
     git clone git://github.com/wesabe/lynofx.git
 
-Then, initial the submodule:
+Then, initialize the submodule:
 
     cd lynofx
     git submodule init
@@ -86,9 +86,7 @@ The script will prompt for username and password, if required, after it is run.
 
 ## Contributing ##
 
-Contributions to lynofx are welcome. Please add tests for your contribution
-and make sure all tests pass before sending a pull request. Here are some
-ideas for things to do:
+Contributions to lynofx are welcome. Here are some ideas for things to do:
 
 * Allow the user to specify a username and password from the command line or a 
   config file so the script can be run out of cron.
