@@ -1,0 +1,3 @@
+[submodule "fixofx"]
+	path = fixofx
+	url = git://github.com/wesabe/fixofx.git
